@@ -13,8 +13,8 @@
 ---
 
 ### 🛠 Technical Skills (Learning in Progress)
-- **Programming:** ![Python](img.shields.io) 
-- **Engineering Tools:** ![MATLAB](img.shields.io) Overleaf, TinkerCad
+- **Programming:** Python
+- **Engineering Tools:** MATLAB, Overleaf, TinkerCad
 - **Logistics:** Systems Optimization, Supply Chain Management.
 
 ---
